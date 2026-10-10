@@ -1,7 +1,7 @@
 # BÁO CÁO CÁ NHÂN BÀI TẬP LỚN FOURSMART
 ## README_11_11 – CART & CHECKOUT
 
-**Họ tên:** [Điền họ tên đầy đủ]  
+**Họ tên:** Nguyễn Quang Hưng  
 **GitHub (theo lịch sử commit):** Nguyễn Hưng  
 **Nhánh:** `feature/cart-checkout`  
 **Repository:** https://github.com/LaiHuy05/FourSmart-new
@@ -12,7 +12,7 @@ Trong báo cáo này, em tập trung trình bày khả năng sử dụng AI Agen
 
 Em chú trọng việc giải thích nguyên lý hoạt động, khả năng sửa chức năng và kiểm soát những trường hợp có thể gây lỗi dữ liệu.
 
-# II. Ý 1 – XÂY DỰNG PHẦN MỀM VỚI AI AGENT (3 ĐIỂM)
+# II. Ý 1 – XÂY DỰNG PHẦN MỀM VỚI AI AGENT 
 
 ## 2.1. Nhận thức về AI Agent
 
@@ -72,7 +72,7 @@ Khi có lỗi trong quá trình tạo đơn, rollback giúp tránh tình trạng
 
 Ngoài ra, em cũng cần kiểm tra các tình huống hai người đồng thời mua sản phẩm gần hết hàng, vì transaction thông thường chưa tự bảo đảm ngăn được mọi lỗi cạnh tranh dữ liệu.
 
-# III. Ý 2 – KIỂM SOÁT MÃ NGUỒN (5 ĐIỂM)
+# III. Ý 2 – KIỂM SOÁT MÃ NGUỒN 
 
 ## 3.1. Ý 2a – Hiểu và sửa tính năng
 
@@ -207,7 +207,7 @@ Qua Git log, em theo dõi được quá trình phát triển theo từng giai đ
 Qua Git diff, em xác định những thay đổi mã nguồn và kiểm tra liệu chúng có tác động đến nghiệp vụ đặt hàng hay không.
 Để đánh giá hiệu quả làm việc, em cho rằng cần tập trung vào khả năng xử lý đúng nghiệp vụ, bảo vệ dữ liệu, kiểm thử, tự giải thích code và minh bạch lịch sử phát triển.
 
-# IV. Ý 3 – KẾT HỢP CÔNG CỤ KIỂM THỬ (2 ĐIỂM)
+# IV. Ý 3 – KẾT HỢP CÔNG CỤ KIỂM THỬ 
 
 ## 4.1. Công cụ áp dụng
 
